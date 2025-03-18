@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: My Second Blog Post
 author: Jamie Cummings
 description: "After learning some Astro, I couldn't stop!"
@@ -9,7 +10,7 @@ pubDate: 2025-03-17
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
 
-After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
+After a successful first session learning Astro, I decided to try some more. I wrote and imported a small component from memory!
 
 I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
 
